@@ -25,6 +25,10 @@
 
 - [Design & Productivity](https://tmgo.me/desprod)
 
+## Блоги
+
+- https://blog.sketchapp.com/
+
 ## YouTube каналы
 
 - [GCFLearnFree.org - Graphic design (playlist)](https://www.youtube.com/watch?v=aWf1LpUnYmU&list=PLpQQipWcxwt9U7qgyYkvNH3Mp8XHXCMmQ)
